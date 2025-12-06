@@ -1,3 +1,19 @@
-Secret
+Secret 
 
-SHA256-bda73679ff0137edc8e4ec93be4c9f59344a920e10958cf172d96643f9822f0a
+bda73679ff0137edc8e4ec93be4c9f59344a920e10958cf172d96643f9822f0a
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prisiminsiu SHA256
